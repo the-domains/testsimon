@@ -1,0 +1,28 @@
+name: Testsimon
+favicon: null
+layout_spectrum: 0.05407107342034578
+typography_spectrum: 0.7458191101904958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1331009459681809
+  lightness: 0.7666473868303001
+  saturation: 0.6881365168374032
+  rhythmicContrast: 0.1156652809586376
+purpose: []
